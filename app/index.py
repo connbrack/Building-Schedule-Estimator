@@ -6,9 +6,6 @@ from dash.dependencies import Input, Output
 
 # Connect to main app.py file
 from app import app
-from app import server
-
-# Connect to your app pages
 from apps import view_data, schedule_finder, energy_estimator
 
 # styling the sidebar
@@ -31,7 +28,7 @@ CONTENT_STYLE = {
 
 sidebar = html.Div(
     [
-        html.H2("Setback Schedule Estimator", className="display-4"),
+        html.H2("Equipment Schedule Estimator", className="display-4"),
         html.Hr(),
         html.P(
             "Use this tool to discover the setback schedule in your building and estimate the impact of changes", className="lead"
