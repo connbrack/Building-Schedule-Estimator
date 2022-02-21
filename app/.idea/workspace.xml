@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/apps/view_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/view_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saved/model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/saved/model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter_test_bed/schedule_summary.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter_test_bed/schedule_summary.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,5 +105,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/schedule_finder.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

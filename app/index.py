@@ -36,7 +36,7 @@ sidebar = html.Div(
         dbc.Nav(
             [
                 dbc.NavLink("View Data", href="/", active="exact"),
-                dbc.NavLink("Find Schedule", href="/schedule_finder", active="exact"),
+                dbc.NavLink("Find and Model Schedule", href="/schedule_finder", active="exact"),
                 dbc.NavLink("Energy Estimator", href="/energy_estimator", active="exact")
             ],
             vertical=True,
