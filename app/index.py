@@ -1,12 +1,13 @@
-import dash
 import dash_bootstrap_components as dbc
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output
 
+from apps import view_data, schedule_finder, energy_estimator
+
 # Connect to main app.py file
 from app import app
-from apps import view_data, schedule_finder, energy_estimator
+
 
 # styling the sidebar
 SIDEBAR_STYLE = {
@@ -31,7 +32,7 @@ sidebar = html.Div(
         html.H2("Equipment Schedule Estimator", className="display-4"),
         html.Hr(),
         html.P(
-            "Use this tool to discover the setback schedule in your building and estimate the impact of changes", className="lead"
+            "Use this tool to discover the equipment schedule in your building and estimate the impact of changes", className="lead"
         ),
         dbc.Nav(
             [

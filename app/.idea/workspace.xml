@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74aa95b2-639b-4b04-b2d2-d72078d5fc68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/bWLwgP_backup.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_test_bed/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_test_bed/Untitled.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/_fun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/schedule_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/schedule_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/view_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/view_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/energy_estimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/energy_estimator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saved/model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/saved/model.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jupyter_test_bed/schedule_summary.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter_test_bed/schedule_summary.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +28,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\conco\OneDrive\Documents\GitHub\Schedule_Energy_Prototoype\app\assets" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.index">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
