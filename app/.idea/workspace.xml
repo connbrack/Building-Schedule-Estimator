@@ -2,19 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74aa95b2-639b-4b04-b2d2-d72078d5fc68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/bWLwgP_backup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_test_bed/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_test_bed/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/.ipynb_checkpoints/Improved Search-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/Improved Search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_test_bed/Improved Search.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/parallel_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_test_bed/parallel_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jupyter_test_bed/testing_grounds.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Jupyter_test_bed/testing_grounds.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/_fun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/energy_estimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/energy_estimator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/schedule_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/schedule_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/view_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/view_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saved/model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/saved/model.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -28,7 +39,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../communautopy" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -37,7 +49,7 @@
       <recent name="C:\Users\conco\OneDrive\Documents\GitHub\Schedule_Energy_Prototoype\app\assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.index">
+  <component name="RunManager" selected="Python.sdsdf">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,8 +92,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sdsdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sdsdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sdsdf" />
         <item itemvalue="Python.index" />
         <item itemvalue="Python.app" />
       </list>
@@ -115,7 +149,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/apps/schedule_finder.py</url>
-          <line>186</line>
+          <line>187</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
