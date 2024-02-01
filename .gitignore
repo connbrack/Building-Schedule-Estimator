@@ -1,9 +1,11 @@
 
-jupyter_test_bed
+
+__pycache__/
+
 
 # Avoid syncing data files
+supporting
 *.csv
 *.pcl
 *.pkl
 
-__pycache__/
