@@ -1,4 +1,4 @@
-# Schedule Energy Prototype
+# Building Schedule Estimator
  
 ##### Data-driven evaluations of building operational settings
 
